@@ -12,3 +12,5 @@ persuasive web service. The aim of my thesis on figuring out the obstacles and r
 the travelers and designing a persuasive website for Near Home Tourism so that travelers grow
 their interest towards Near Home Tourism instead of distance traveling.This application will suggest tourist places to the users based on their present location. 
 from this application the users can buy ticket,book hotels(if needed) to go the destination. from this application users can do all traveling related activities.   
+
+My UX portfolio is here: https://sites.google.com/view/rms-portfolio/home-page
